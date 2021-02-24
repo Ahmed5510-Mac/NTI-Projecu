@@ -1,0 +1,16 @@
+.c1
+{
+     width:100px;
+     height:100px;
+     background-color: chartreuse;
+
+}
+.err{border:red 6px solid}
+.noterr{border:blue 6px solid}
+
+
+.btn{
+     background-color: #09c;
+     width:90px;
+     height:80px;
+} 
